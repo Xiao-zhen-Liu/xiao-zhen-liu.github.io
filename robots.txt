@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://xiao-zhen-liu.github.io/sitemap.xml
